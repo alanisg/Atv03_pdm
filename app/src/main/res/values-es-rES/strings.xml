@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="action_settings">Configuraciones</string>
+        <string name="first_fragment_label">Primero Fragmen</string>
+        <string name="second_fragment_label">Segundo fragmento</string>
+        <string name="next">próximo</string>
+        <string name="previous">Anterior</string>
+        <string name="name_permissão">" Conceder permiso de GPS"</string>
+        <string name="ativar">" Activar GPS"</string>
+        <string name="desativarGPS">" Deshabilitar  GPS"</string>
+        <string name="iniciarPercurso">" Empezar recorrido"</string>
+        <string name="terminarPercurso">" terminar la ruta"</string>
+        <string name="distanciaPercorrida">Distancia recorrida:</string>
+        <string name="tempoGasto">Hora:</string>
+        <string name="rotaEditText">¿Qué quieres buscar?</string>
+        <string name="no_gps_no_app">Se requiere permiso para usar la aplicación.</string>
+        <string name="permissao_concedida">Permiso concedido.</string>
+        <string name="gps_ativado">GPS habilitado.</string>
+        <string name="feedback_no_gps">Para habilitar el GPS, haga clic en Conceder permiso de GPS</string>
+        <string name="gps_nao_ativado">El GPS no está activado.</string>
+        <string name="permissao_ja_concedida">Ya se ha otorgado el permiso, haga clic en el botón Habilitar GPSn</string>
+        <string name="gps_desativado">GPS deshabilitado con éxito.</string>
+        <string name="nao_percurso">No hay ruta.</string>
+        <string name="gps_ja_ativado">El GPS ya está activado.</string>
+        <string name="percurso_ja_ativado">Ya estás en camino.</string>
+        <string name="termine_o_percurso">Estás en el camino, termina la ruta primero para desactivar el GPS.</string>
+        <string name="percurso_iniciado">Ruta iniciada</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='Atv03_pdm'
+include ':app'

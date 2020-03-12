@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="marginRight">4dp</dimen>
+    <dimen name="marginBottom">10dp</dimen>
+    <dimen name="label">16dp</dimen>
+</resources>

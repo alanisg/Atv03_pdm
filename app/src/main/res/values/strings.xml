@@ -1,0 +1,31 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="name_permissão">" Grant GPS Permission"</string>
+    <string name="ativar">" Activate GPS"</string>
+    <string name="desativarGPS">" Disable GPS"</string>
+    <string name="iniciarPercurso">" Start Tour"</string>
+    <string name="terminarPercurso">" finish route"</string>
+    <string name="distanciaPercorrida">Travelled distance:</string>
+    <string name="tempoGasto">Time:</string>
+    <string name="rotaEditText">What do you want to look for?</string>
+    <string name="no_gps_no_app">Permission required to use the app.</string>
+    <string name="permissao_concedida">Permission granted.</string>
+    <string name="gps_ativado">GPS enabled.</string>
+    <string name="feedback_no_gps">To enable GPS, click Grant GPS Permission</string>
+    <string name="gps_nao_ativado">GPS is not activated.</string>
+    <string name="permissao_ja_concedida">Permission has already been granted, click on the Enable GPS button</string>
+    <string name="gps_desativado">GPS successfully disabled.</string>
+    <string name="nao_percurso">There is no route.</string>
+    <string name="gps_ja_ativado">GPS is already activated.</string>
+    <string name="percurso_ja_ativado">You are already on your way.</string>
+    <string name="termine_o_percurso">You are on the road, finish the route first to disable the GPS.</string>
+    <string name="percurso_iniciado">Route started</string>
+
+
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">die Einstellungen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Erstes Fragment</string>
+    <string name="second_fragment_label">Zweites Fragment</string>
+    <string name="next">Nächster</string>
+    <string name="previous">Bisherige</string>
+    <string name="name_permissão">" GPS-Berechtigung erteilen"</string>
+    <string name="ativar">"Aktivieren Sie GPS"</string>
+    <string name="desativarGPS">"GPS deaktivieren"</string>
+    <string name="iniciarPercurso">" Tour starten"</string>
+    <string name="terminarPercurso">" Route beenden"</string>
+    <string name="distanciaPercorrida">Zurückgelegte Strecke::</string>
+    <string name="tempoGasto">Zeit:</string>
+    <string name="rotaEditText">Wonach möchten Sie suchen?</string>
+    <string name="no_gps_no_app">Erlaubnis zur Nutzung der App erforderlich.</string>
+    <string name="permissao_concedida">Erlaubnis erteilt.</string>
+    <string name="gps_ativado">GPS aktiviert.</string>
+    <string name="feedback_no_gps">Klicken Sie zum Aktivieren von GPS auf GPS-Berechtigung erteilen</string>
+    <string name="gps_nao_ativado">GPS ist nicht aktiviert.</string>
+    <string name="permissao_ja_concedida">Die Berechtigung wurde bereits erteilt. Klicken Sie auf die Schaltfläche GPS aktivieren </string>
+    <string name="gps_desativado">GPS erfolgreich deaktiviert.</string>
+    <string name="nao_percurso">Es gibt keine Route.</string>
+    <string name="gps_ja_ativado">GPS ist bereits aktiviert..</string>
+    <string name="percurso_ja_ativado">Du bist schon unterwegs.</string>
+    <string name="termine_o_percurso">Wenn Sie unterwegs sind, beenden Sie zuerst die Route, um das GPS zu deaktivieren.</string>
+    <string name="percurso_iniciado">Route gestartet</string>
+
+</resources>
